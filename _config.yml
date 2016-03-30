@@ -1,0 +1,28 @@
+name: Money For 420
+favicon: null
+layout_spectrum: 0.31872633658349514
+typography_spectrum: 0.7516651770565659
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5753271458670497
+  lightness: 0.17919929651543498
+  saturation: 0.12020524684339762
+  rhythmicContrast: 0.13777486979961395
+purpose: []
